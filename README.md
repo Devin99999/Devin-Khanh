@@ -1,11 +1,12 @@
-# Devin-Khanh
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <title>Devin Personal Site</title>
+<link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <table cellspacing="30">
+<div class="center">
+    <table cellspacing="30", >
         <tr>
             <td><img src="https://pbs.twimg.com/profile_images/1516014026286768134/rfKfy2rt_400x400.jpg" alt="Devin profile picture"></td>
             <td>
@@ -15,6 +16,7 @@
             </td>
         </tr>
     </table>
+</div>
     <hr>
     <h3>Education</h3>
     <ul>
